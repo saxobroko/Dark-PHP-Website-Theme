@@ -13,6 +13,14 @@ A simple dark theme for a PHP website.
 - Features automatically hide from pages if not set in config.php
 - Sidebar
 - Button to install as a PWA
+- Dark Scrollbar on chrome-based browsers
 
 # Setup
 Setup is simple and requires the use of a single config.php which edits the data on every page of the website. If you are wanting to add more pages you should use the index.php as a guide.
+
+## License
+
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
+- **[MIT license](http://opensource.org/licenses/mit-license.php)**
+- Copyright 2020 © <a href="https://saxobroko.com" target="_blank">Saxo_Broko</a>.
