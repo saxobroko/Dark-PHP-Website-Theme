@@ -1,6 +1,11 @@
 # PHP Dark Website Theme
 A simple dark theme for a PHP website.
 
+# Table of Contents
+- [Features](#Features)
+- [Setup](#Setup)
+- [License](#license)
+
 # Features
 - Loads Fast
 - Easy to setup
