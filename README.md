@@ -5,6 +5,7 @@ This theme is based off my personal website. https://saxobroko.com
 
 # Table of Contents
 - [Features](#Features)
+- [Images](#Images)
 - [Setup](#Setup)
 - [License](#license)
 
@@ -21,6 +22,9 @@ This theme is based off my personal website. https://saxobroko.com
 - Sidebar
 - Button to install as a PWA
 - Dark Scrollbar on chrome-based browsers
+
+# Images
+![Screenshot](images/preview.png)
 
 # Setup
 Setup is simple and requires the use of a single config.php which edits the data on every page of the website. If you are wanting to add more pages you should use the index.php as a guide.
