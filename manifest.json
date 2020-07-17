@@ -1,0 +1,11 @@
+{
+  "name": "",
+  "short_name": "",
+  "theme_color": "#737373",
+  "background_color": "#717171",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+  ]
+}
